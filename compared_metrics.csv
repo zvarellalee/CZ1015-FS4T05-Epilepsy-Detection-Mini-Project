@@ -1,0 +1,5 @@
+Model,Time Acc,Fourier Acc,Time FNR,Fourier FNR
+Logistic Regression,0.4935,0.9265,0.5326,0.0545
+K-Nearest Neighbors,0.9278,0.9634,0.3478,0.026
+Gradient Boosting Classifier,0.9696,0.9757,0.0435,0.0392
+Anomaly Detection,0.9452,0.9573,0.0482,0.091
